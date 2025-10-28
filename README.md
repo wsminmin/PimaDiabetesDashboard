@@ -33,4 +33,6 @@ library(rsconnect)
 rsconnect::deployApp("path/to/your/app/folder")
 ```
 After deployment, the dashboard will be available online via a Posit URL.
+
+For example, this is my dashboard in Posit: https://s32vbu-min0min-tan.shinyapps.io/PimaDiabetesDashboard/
    
